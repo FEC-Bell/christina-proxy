@@ -17,14 +17,14 @@ const WebsiteBase = () => {
       <GlobalStyle />
       <GlobalHeader />
       <TopPadBody>
-        <div>First Module</div>
-        <div>Module</div>
-        <div>Module</div>
-        <div>Module</div>
-        <div>Module</div>
-        <div>Module</div>
-        <div>Module</div>
-        <div>Module</div>
+        <div id="photo-carousel">First Module</div>
+        <div id="game-description">Module</div>
+        <div id="user-tags">Module</div>
+        <div id="dlc">Module</div>
+        <div id="system-requirements">Module</div>
+        <div id="related-games">Module</div>
+        <div id="reviews-graph">Module</div>
+        <div id="reviews">Module</div>
         <div>Module</div>
         <div>Module</div>
         <div>Module</div>
